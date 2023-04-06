@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-572b64b3","path":"/environment_modules/README_backup.html","title":"Environment Modules","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"environment_modules/README_backup.md"}');export{e as data};
